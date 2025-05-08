@@ -16,3 +16,4 @@ The current Haar Cascade classifier may not detect all license plate formats, es
 Recognition accuracy may decrease under poor lighting or low-resolution conditions.
 
 The system primarily supports license plates similar to the training data of the Haar Cascade used.
+
