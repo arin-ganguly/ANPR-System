@@ -20,3 +20,4 @@ The system primarily supports license plates similar to the training data of the
 
 https://github.com/user-attachments/assets/379523e1-b90a-458c-b288-5ebdd59ed6c3
 
+
