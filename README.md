@@ -17,6 +17,7 @@ Recognition accuracy may decrease under poor lighting or low-resolution conditio
 
 The system primarily supports license plates similar to the training data of the Haar Cascade used.
 
+DATASET USED IN THIS PROJECT: https://www.kaggle.com/datasets/vikaschauhan734/vehicle-number-plate
 
 
 
