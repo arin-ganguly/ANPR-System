@@ -18,6 +18,6 @@ Recognition accuracy may decrease under poor lighting or low-resolution conditio
 The system primarily supports license plates similar to the training data of the Haar Cascade used.
 
 
-https://github.com/user-attachments/assets/379523e1-b90a-458c-b288-5ebdd59ed6c3
+
 
 
