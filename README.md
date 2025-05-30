@@ -22,7 +22,7 @@ Outputs processed video with annotated license plates.
 - ![val_batch0_labels](https://github.com/user-attachments/assets/8273013f-5049-48a4-b8c6-9953be57af1b)
 - ![val_batch0_pred](https://github.com/user-attachments/assets/49afd68c-dea2-42d7-9272-343f554e3994)
 - ![val_batch1_pred](https://github.com/user-attachments/assets/22411d34-122c-499e-a83c-a9d6a6e4f9a8)
-- **In the _'runs'_ folder You can see the full validation images,training image sets and other factors like reselt.csv, confution matrix**
+- **In the _'License-Plate-Detector'_ folder You can see the full validation images,training image sets and other factors like reselt.csv, confution matrix**
 
 
 
