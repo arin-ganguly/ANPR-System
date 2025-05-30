@@ -1,5 +1,5 @@
-![val_batch0_pred](https://github.com/user-attachments/assets/f7b11774-40ec-475e-bbdf-a09ec841e12a)# ANPR-System
-This project implements an Automatic Number Plate Recognition (ANPR) system using Python and OpenCV. 
+# Automatic Number Plate Recognition System
+This project implements an Automatic Number Plate Recognition (ANPR) system using _YOLOv10_ and OpenCV. 
 The system detects vehicle license plates in images or video streams and recognizes the alphanumeric characters on them. 
 Such systems are instrumental in traffic monitoring, toll collection, and security enforcement.
 
