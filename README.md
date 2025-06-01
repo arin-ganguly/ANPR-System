@@ -18,6 +18,7 @@ Outputs processed video with annotated license plates.
 -The system primarily supports license plates similar to the training data of the Haar Cascade used.
 
 -DATASET USED IN THIS PROJECT: https://www.kaggle.com/datasets/vikaschauhan734/vehicle-number-plate
+
 -**Sample validation images**: 
 - ![val_batch0_labels](https://github.com/user-attachments/assets/8273013f-5049-48a4-b8c6-9953be57af1b)
 - ![val_batch0_pred](https://github.com/user-attachments/assets/49afd68c-dea2-42d7-9272-343f554e3994)
