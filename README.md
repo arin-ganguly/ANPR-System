@@ -4,18 +4,18 @@ The system detects vehicle license plates in images or video streams and recogni
 Such systems are instrumental in traffic monitoring, toll collection, and security enforcement.
 
 📌 Features
-Real-time license plate detection using Haar Cascade classifiers.
+Real-time license plate detection using yolov10n.
 
-Character segmentation and recognition using OpenCV.
+Character segmentation and recognition using OpenCV.(Future Work)
 
 Outputs processed video with annotated license plates.
 
 ⚠️ Limitations
-- The current Haar Cascade classifier may not detect all license plate formats, especially non-standard or obscured plates.
+- The current model may not detect all license plate formats, especially non-standard or obscured plates.
 
 - Recognition accuracy may decrease under poor lighting or low-resolution conditions.
 
-- The system primarily supports license plates similar to the training data of the Haar Cascade used.
+- The system primarily supports license plates similar to the training data of the yolo model used.
 
 - DATASET USED IN THIS PROJECT: https://www.kaggle.com/datasets/vikaschauhan734/vehicle-number-plate
 
