@@ -3,6 +3,13 @@ This project implements an Automatic Number Plate Recognition (ANPR) system usin
 The system detects vehicle license plates in images or video streams and recognizes the alphanumeric characters on them. 
 Such systems are instrumental in traffic monitoring, toll collection, and security enforcement.
 
+---
+
+## Sample Output video
+
+https://github.com/user-attachments/assets/6688cfe7-8402-4a82-b7e6-a4bd4f444fe9
+
+--- 
 📌 Features
 Real-time license plate detection using yolov10n.
 
