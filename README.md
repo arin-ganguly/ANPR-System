@@ -7,7 +7,7 @@ Such systems are instrumental in traffic monitoring, toll collection, and securi
 
 ## Sample Output video
 
-https://github.com/user-attachments/assets/6688cfe7-8402-4a82-b7e6-a4bd4f444fe9
+https://github.com/user-attachments/assets/36a34d61-56b7-4b35-9e66-aa185d134f02
 
 --- 
 📌 Features
@@ -16,6 +16,8 @@ Real-time license plate detection using yolov10n.
 Character segmentation and recognition using OpenCV.(Future Work)
 
 Outputs processed video with annotated license plates.
+
+---
 
 ⚠️ Limitations
 - The current model may not detect all license plate formats, especially non-standard or obscured plates.
