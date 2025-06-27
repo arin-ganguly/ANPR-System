@@ -9,7 +9,7 @@ Such systems are instrumental in traffic monitoring, toll collection, and securi
 
 https://github.com/user-attachments/assets/36a34d61-56b7-4b35-9e66-aa185d134f02
 
---- 
+---
 📌 Features
 Real-time license plate detection using yolov10n.
 
